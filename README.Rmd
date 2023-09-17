@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # mypackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/sungoose/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sungoose/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to help you understand your libraries...

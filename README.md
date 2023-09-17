@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/sungoose/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sungoose/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to help you understand your libraries…
@@ -28,7 +30,7 @@ library(mypackage)
 lib_summary()
 #>                                                                                        Library
 #> 1                        /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
-#> 2 /private/var/folders/_h/wpv1sqh556z9dmfj5l4gc5kw0000gn/T/Rtmp16RIr2/temp_libpath27802f863819
+#> 2 /private/var/folders/_h/wpv1sqh556z9dmfj5l4gc5kw0000gn/T/Rtmp16RIr2/temp_libpath278065e2fa35
 #>   n_packages
 #> 1        166
 #> 2          1
